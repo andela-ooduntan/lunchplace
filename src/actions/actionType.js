@@ -1,0 +1,3 @@
+export const GETTING_PLACES                  = 'GETTING_PLACES';
+export const GETTING_PLACES_SUCCESSFUL       = 'GETTING_PLACES_SUCCESSFUL';
+export const GETTING_PLACES_FAILED           = 'GETTING_PLACES_FAILED';
